@@ -1,0 +1,35 @@
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 140px 30px 140px;
+}
+.pollob {
+    color: rgba(13, 19, 33, 1);
+    text-decoration: none;
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: bolder;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.nav-btn {
+    color:#0D1321;
+
+    font-family: Azeret Mono;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 1);
+    border-radius: 8px;
+    cursor:pointer;
+    opacity: 0.8;
+
+}
