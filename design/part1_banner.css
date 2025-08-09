@@ -6,15 +6,15 @@
 
 .part1_middle {
     height: 450px;
-    width: 900px;
+    width: 778px;
     padding: 26px 240px 40px 240px;
 }
 
 .part1_img {
-    height: 135px;
-    width: 130px;
+    height: 140px;
+    width: 135px;
     display: block;
-    margin: 0 340px;
+    margin: 0 306px;
 }
 
 .part1_head {
@@ -25,7 +25,7 @@
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
-    padding-right: 90px;
+    padding-right: 50px;
 
 }
 
@@ -37,8 +37,8 @@
     line-height: 25px;
     letter-spacing: 0%;
     text-align: center;
-    padding-left: 100px;
-    padding-right: 170px;
+    padding-left: 90px;
+    padding-right: 160px;
     margin-bottom: 24px;
     opacity: 0.7;
 }
@@ -52,6 +52,6 @@
     background: rgba(13, 19, 33, 1);
     padding: 10px;
     display: block;
-    margin: 0 335px;
+    margin: 0 300px;
     width: 175px;
 }
