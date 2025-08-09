@@ -1,0 +1,31 @@
+.flex_item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 125px;
+    padding-right: 115px;
+}
+.head {
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.fb {
+    cursor: pointer;
+}
+
+.linkdin {
+    padding-left: 20px;
+    /* padding-right: 20px; */
+    cursor: pointer;
+}
+
+.github {
+    padding-left: 20px;
+    cursor: pointer;
+}
